@@ -2,8 +2,6 @@
 
 This is basically the [Jasmine Standalone Release](https://github.com/jasmine/jasmine/tree/master/dist) ported to use [webpack](http://webpack.github.io/).
 
-The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is more recommended for a real development environment.
-
 It shows that it is possible to use custom loaders like [babel](http://babeljs.io/) to get [ES6](http://babeljs.io/docs/learn-es6/) support with very little effort.
 
 It includes:
@@ -11,6 +9,8 @@ It includes:
 * [Jasmine 2.2](http://jasmine.github.io/2.2/introduction.html);
 * [Webpack 1.6](http://webpack.github.io/);
 * [Babel 4.6](http://babeljs.io/).
+
+The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is more recommended for a real development environment.
 
 ## Running
 
