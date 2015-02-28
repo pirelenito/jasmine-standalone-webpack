@@ -111,7 +111,7 @@ And we can finaly use the webpack-dev-server to serve the `SpecRunner.html` and 
 ./node_modules/.bin/webpack-dev-server
 ```
 
-## Final comments
+## Final thoughts
 
 The purpose of this repository was merely instructional. Something like [Karma](http://karma-runner.github.io/) is recommended for a real development environment.
 
