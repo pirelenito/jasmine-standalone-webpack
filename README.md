@@ -10,7 +10,7 @@ It includes:
 * [Webpack 1.6](http://webpack.github.io/);
 * [Babel 4.6](http://babeljs.io/).
 
-The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is more recommended for a real development environment.
+The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is recommended for a real development environment.
 
 ## Running
 
