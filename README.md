@@ -105,7 +105,7 @@ module.exports = {
 };
 ```
 
-And we can finaly use the webpack-dev-server to serve the `SpecRunner.html` and see the tests running.
+And we can finally use the [webpack-dev-server](http://webpack.github.io/docs/webpack-dev-server.html) to serve the `SpecRunner.html` and see the tests running.
 
 ```bash
 ./node_modules/.bin/webpack-dev-server
