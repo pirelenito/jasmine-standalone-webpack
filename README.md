@@ -10,7 +10,7 @@ It includes:
 * [Webpack 1.6](http://webpack.github.io/);
 * [Babel 4.6](http://babeljs.io/).
 
-The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is recommended for a real development environment.
+This is a follow-up to the previous [jasmine-standalone-requirejs](https://github.com/pirelenito/jasmine-standalone-requirejs)
 
 ## Running
 
@@ -110,3 +110,11 @@ And we can finaly use the webpack-dev-server to serve the `SpecRunner.html` and 
 ```bash
 ./node_modules/.bin/webpack-dev-server
 ```
+
+## Final comments
+
+The purpose of this repository was merely instructional. Something like [Karma](http://karma-runner.github.io/) is recommended for a real development environment.
+
+## Authors
+
+* [Paulo Ragonha](https://github.com/pirelenito)
