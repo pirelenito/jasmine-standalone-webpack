@@ -2,7 +2,7 @@
 
 This is basically the [Jasmine Standalone Release](https://github.com/jasmine/jasmine/tree/master/dist) ported to use [webpack](http://webpack.github.io/).
 
-It shows that it is possible to use custom loaders like [babel](http://babeljs.io/) to get [ES6](http://babeljs.io/docs/learn-es6/) support with very little effort.
+It shows that it is possible to use custom loaders like [babel](http://babeljs.io/) to get [ES6](http://babeljs.io/docs/learn-es6/) support with [very little effort](https://github.com/pirelenito/jasmine-standalone-webpack/commit/13d059525aa1c1dc4086864cc80ac42ed27880d4).
 
 It includes:
 
