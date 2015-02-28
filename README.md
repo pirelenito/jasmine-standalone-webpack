@@ -1,6 +1,6 @@
 # Jasmine Standalone Webpack
 
-This is basically the Jasmine Standalone Release ported to use [webpack](http://webpack.github.io/).
+This is basically the [Jasmine Standalone Release](https://github.com/jasmine/jasmine/tree/master/dist) ported to use [webpack](http://webpack.github.io/).
 
 The purpose of this repository is merely instructional. Something like [Karma](http://karma-runner.github.io/) is more recommended for a real development environment.
 
