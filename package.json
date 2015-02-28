@@ -1,0 +1,20 @@
+{
+  "name": "jasmine-standalone-webpack",
+  "version": "1.0.0",
+  "description": "This is basically the Jasmine Standalone Release ported to use webpack",
+  "scripts": {
+    "start": "./node_modules/.bin/webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pirelenito/jasmine-standalone-webpack.git"
+  },
+  "author": "Paulo Ragonha",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^4.6.1",
+    "babel-loader": "^4.0.0",
+    "webpack": "^1.6.0",
+    "webpack-dev-server": "^1.7.0"
+  }
+}

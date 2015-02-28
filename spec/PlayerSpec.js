@@ -1,3 +1,8 @@
+import './SpecHelper';
+import Player from '../src/Player';
+import Song from '../src/Song';
+
+
 describe("Player", function() {
   var player;
   var song;
