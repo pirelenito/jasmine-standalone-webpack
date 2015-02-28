@@ -1,6 +1,6 @@
 {
   "name": "jasmine-standalone-webpack",
-  "version": "1.0.0",
+  "version": "2.2.0",
   "description": "This is basically the Jasmine Standalone Release ported to use webpack",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server"
