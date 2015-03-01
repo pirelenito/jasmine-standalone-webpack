@@ -8,7 +8,7 @@ It includes:
 
 * [Jasmine 2.2](http://jasmine.github.io/2.2/introduction.html);
 * [Webpack 1.6](http://webpack.github.io/);
-* [webpack-dev-server](http://webpack.github.io/docs/webpack-dev-server.html) with live-reload;
+* [webpack-dev-server](http://webpack.github.io/docs/webpack-dev-server.html);
 * [Babel 4.6](http://babeljs.io/).
 
 This is a follow-up to the previous [jasmine-standalone-requirejs](https://github.com/pirelenito/jasmine-standalone-requirejs)
@@ -22,7 +22,7 @@ npm install
 npm start
 ```
 
-Then open your browser at [http://localhost:8080/SpecRunner.html](http://localhost:8080/SpecRunner.html) and get the tests running on any file change.
+Then open your browser at [http://localhost:8080/SpecRunner.html](http://localhost:8080/SpecRunner.html) and see the tests running.
 
 ## How it was done
 

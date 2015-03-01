@@ -3,7 +3,7 @@
   "version": "2.2.0",
   "description": "This is basically the Jasmine Standalone Release ported to use webpack",
   "scripts": {
-    "start": "./node_modules/.bin/webpack-dev-server --inline --hot"
+    "start": "./node_modules/.bin/webpack-dev-server"
   },
   "repository": {
     "type": "git",
