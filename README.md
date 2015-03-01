@@ -112,7 +112,7 @@ And we can finally use the [webpack-dev-server](http://webpack.github.io/docs/we
 
 ## Final thoughts
 
-The purpose of this repository was merely instructional. Something like [Karma](http://karma-runner.github.io/) is recommended for a real development environment.
+For a more feature-complete solution, take a look at [Karma](http://karma-runner.github.io/).
 
 ## Authors
 
