@@ -15,11 +15,9 @@ This is a follow-up to the previous [jasmine-standalone-requirejs](https://githu
 
 ## Running
 
-Clone this repository, install the dependencies and start the development server:
+[Download](https://github.com/pirelenito/jasmine-standalone-webpack/releases) the release, install the dependencies and start the development server:
 
 ```bash
-git clone git@github.com:pirelenito/jasmine-standalone-webpack.git
-cd jasmine-standalone-webpack
 npm install
 npm start
 ```
